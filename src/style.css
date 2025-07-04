@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+}
+
+#numeroArriba, #numeroAbajo{
+    font-size: 50px;
+}
+#palo {
+    font-size: 110px;
+}
+
+.Caja{
+    border: 5px;
+    border-color: black;
+    border-radius: 15px;
+    border-style: solid;
 }
